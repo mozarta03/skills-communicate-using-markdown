@@ -1,5 +1,9 @@
 # H1 Header
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ```java
 int age = 22;
 
